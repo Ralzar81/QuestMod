@@ -8,8 +8,7 @@
     "GUID": "cca75a5f-bf80-48f1-97dd-0ad8678bfd44",
     "Files": [
         "Assets/Game/Mods/QuestMod/Scripts/QuestMod.cs",
-        "Assets/Game/Mods/QuestMod/Quests/M0B00Y00.txt",
-        "Assets/Game/Mods/QuestMod/Tables/QuestList-QuestMod.txt",
+        "Assets/Game/Mods/QuestMod/Quests/QuestList-QuestMod.txt",
         "Assets/Game/Mods/QuestMod/Quests/M0B00Y01.txt"
     ],
     "Contributes": null,
