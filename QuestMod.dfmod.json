@@ -1,0 +1,17 @@
+{
+    "ModTitle": "QuestMod",
+    "ModVersion": "1",
+    "ModAuthor": "Ralzar",
+    "ContactInfo": null,
+    "DFUnity_Version": "0.10.17",
+    "ModDescription": null,
+    "GUID": "cca75a5f-bf80-48f1-97dd-0ad8678bfd44",
+    "Files": [
+        "Assets/Game/Mods/QuestMod/Scripts/QuestMod.cs",
+        "Assets/Game/Mods/QuestMod/Quests/M0B00Y00.txt",
+        "Assets/Game/Mods/QuestMod/Tables/QuestList-QuestMod.txt",
+        "Assets/Game/Mods/QuestMod/Quests/M0B00Y01.txt"
+    ],
+    "Contributes": null,
+    "Dependencies": null
+}
